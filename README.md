@@ -1,4 +1,6 @@
-# THIS PROJECT IS NO LONGER MAINTAINED
+# THIS PROJECT IS A FORK JUST TO CORRECT IMPORT
+
+# You need to install react-native-webview from community
 
 # react-native-qrcode
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code), not only support English.
